@@ -1,6 +1,10 @@
 {
   "pack": {
-    "pack_format": 9,
-    "description": "Made by our one and only Synsao the soap"
+    "description": "Made by Synsao, invaded by MrSam7K and CreepersWizard",
+    "pack_format": 34,
+    "supported_formats": {
+      "min_inclusive": 34,
+      "max_inclusive": 63
+    }
   }
 }
