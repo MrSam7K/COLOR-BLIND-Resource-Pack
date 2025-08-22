@@ -1,0 +1,47 @@
+{
+	"axolotl": {
+		"sounds": [
+			"custom:axolotl"
+		]
+	},
+	"irongolem": {
+		"sounds": [
+			"custom:irongolem"
+		]
+	},
+	"ocelot": {
+		"sounds": [
+			"custom:ocelot"
+		]
+	},
+	"sculk": {
+		"sounds": [
+			"custom:sculk"
+		]
+	},
+	"spyglass": {
+		"sounds": [
+			"custom:spyglass"
+		]
+	},
+	"throw": {
+		"sounds": [
+			"custom:throw"
+		]
+	},
+	"stat_rise_up": {
+		"sounds": [
+			"custom:stat_rise_up"
+		]
+	},
+	"burned": {
+		"sounds": [
+			"custom:burned"
+		]
+	},
+	"confused": {
+		"sounds": [
+			"custom:confused"
+		]
+	}
+}
