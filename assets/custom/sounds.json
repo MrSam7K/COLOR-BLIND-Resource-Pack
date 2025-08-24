@@ -29,19 +29,9 @@
 			"custom:throw"
 		]
 	},
-	"stat_rise_up": {
+	"star": {
 		"sounds": [
-			"custom:stat_rise_up"
-		]
-	},
-	"burned": {
-		"sounds": [
-			"custom:burned"
-		]
-	},
-	"confused": {
-		"sounds": [
-			"custom:confused"
+			"custom:star"
 		]
 	}
 }
